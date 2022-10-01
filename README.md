@@ -1,2 +1,4 @@
-# python_proje
-Sisterslab Python Akademisi içinde yapılan projeler yer alacak.
+SistersLab Python Akademisi
+
+Akademi içinde anlatılan konular yer almaktadır.
+
