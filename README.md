@@ -1,4 +1,4 @@
-SistersLab Python Akademisi
+**SistersLab Python Akademisi**
 
 Herkese merhaba, SistersLab’in [Toplum Gönüllüleri Vakfı](https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Eğitim süreci boyunca almış olduğum eğitimlerin içeriklerini bu repoda tutacağım. 
 
