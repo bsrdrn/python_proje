@@ -14,7 +14,7 @@ Bu repo içerisinde haftalık olarak ilerleyişime bağlı olarak sırasıyla;
 * 5-Lambda, Filter ve Map İsimsiz Filtreler
 * 5-Tuple
 
-## konuları yer almakta olup eğitim süresince edinilen bilgiler dahilinde eklemeler yapılacaktır.
+###konuları yer almakta olup eğitim süresince edinilen bilgiler dahilinde eklemeler yapılacaktır.
 
 ----
 
