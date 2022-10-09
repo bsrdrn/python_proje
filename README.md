@@ -5,14 +5,23 @@ Herkese merhaba, SistersLab’in [Toplum Gönüllüleri Vakfı](https://www.tog.
 ----
 
 Bu repo içerisinde haftalık olarak ilerleyişime bağlı olarak sırasıyla;
+
  1-Python'a Giriş
+ 
  2-Döngüler
+ 
  2-Kontrol Yapıları
+ 
  4-Modüller
+ 
  4-Fonksiyonlar
+ 
  5-Veri Yapıları( Listeler)
+ 
  5-Lambda, Filter ve Map İsimsiz Filtreler
+ 
  5-Tuple
+
 ### konuları yer almakta olup eğitim süresince edinilen bilgiler dahilinde eklemeler yapılacaktır.
 
 ----
